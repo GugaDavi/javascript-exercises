@@ -15,4 +15,16 @@ Uma dessas ferramentas é o **_Typescript_**, sendo necessário assim executar o
   yarn sucrase-node <nome_do_arquivo>
 ```
 
+Outra ferramenta necessária é o git, no arquivo README.git.md você encontra alguns comandos uteis.
+
 Aproveitando para treinar o uso do `git`, faça um `fork` deste repositório e crie uma branch para cada teste.
+
+Com repositório clonado do seu `Fork` é só seguir o fluxo:
+
+1. Criar uma nova branch;
+2. Crie um arquivo dentro da pasta do desafio. Ex: `index.js` ou `index.ts`;
+3. Siga as orientações do **README** que está dentro da pasta;
+4. As respostas estão dentro do arquivo: **_README.resp.md_**;
+5. Adicione as alterações a linha do tempo local no git;
+6. Comente as alterações;
+7. Suba as alterações para o Github;
