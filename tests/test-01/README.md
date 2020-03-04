@@ -2,13 +2,9 @@
 
 Objetivo: Consolidar os conhecimentos de variáveis, tipos e condicionais.
 
-No arquivo `index.doc.ts` há 3 variáveis: `number1`, `number2`, `number3`. Você precisa importá-las para concluir o desafio.
+Crie 3 variaveis do tipo númerico.
 
-```
-import { number1, number2, number3 } from './index.doc'
-```
-
-Após a importação você terá acesso às informações de cada valor. E mostrar no console cada requisito abaixo:
+Após a criação você deve seguir os seguintes passos:
 
 ### Expressões numéricas:
 
@@ -26,5 +22,3 @@ Após a importação você terá acesso às informações de cada valor. E mostr
 4. `number2` menor ou igual ao `number2`?
 5. Se `number1` maior que `number2` mostrar no console uma mensagem que o `number1` é maior. Se não, que `number2` é 6. maior
 6. Se soma do `number1` com `number2` for maior que 15 ou Multiplicação do `number2` com `number3` for um número positivo mostrar no console que as condicionais foram validadas, se não, que não foram validadas.
-
-As respostas estão no arquivo **README.resp.md**
